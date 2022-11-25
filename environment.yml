@@ -6,3 +6,4 @@ dependencies:
   - lxml
   - pandas
   - openpyxl
+  - matplotlib
